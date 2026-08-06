@@ -1,0 +1,6 @@
+{
+  "name": "Handmade Haven",
+  "description": "Artisanal hand-stitched bag marketplace featuring slow fashion, artisan stories, and intentional living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
